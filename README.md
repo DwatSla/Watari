@@ -1,4 +1,3 @@
-Este repositório contém duas atividades básicas desenvolvidas em Python para praticar os primeiros conceitos de programação. Ambas utilizam classes, métodos get e set, além de entrada de dados pelo teclado.
 A primeira atividade, chamada Verificador de Maioridade, solicita o nome e a idade do usuário, armazena essas informações em uma classe chamada Pessoa e verifica se o usuário é maior ou menor de idade, exibindo a mensagem correspondente. Esse exercício reforça o uso de variáveis, conversão de tipos e estruturas condicionais.
 A segunda atividade, Tabuada, pede que o usuário informe um número inteiro e, por meio da classe Tabuada, exibe a multiplicação desse número de 1 a 10. O programa utiliza um loop for e f-strings para formatar a saída, servindo como prática para repetição e manipulação de dados numéricos.
 Os dois scripts foram feitos de forma simples e objetiva, utilizando apenas o essencial para reforçar a lógica e a estrutura básica da linguagem Python.
