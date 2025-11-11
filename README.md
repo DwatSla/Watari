@@ -1,3 +1,6 @@
 A primeira atividade, chamada Verificador de Maioridade, solicita o nome e a idade do usuário, armazena essas informações em uma classe chamada Pessoa e verifica se o usuário é maior ou menor de idade, exibindo a mensagem correspondente. Esse exercício reforça o uso de variáveis, conversão de tipos e estruturas condicionais.
 A segunda atividade, Tabuada, pede que o usuário informe um número inteiro e, por meio da classe Tabuada, exibe a multiplicação desse número de 1 a 10. O programa utiliza um loop for e f-strings para formatar a saída, servindo como prática para repetição e manipulação de dados numéricos.
 Os dois scripts foram feitos de forma simples e objetiva, utilizando apenas o essencial para reforçar a lógica e a estrutura básica da linguagem Python.
+A Terceira, Função Calculadora, define uma função chamada calculadora() que recebe dois números e uma operação matemática (+, -, *, /), retornando o resultado. O objetivo é praticar o uso de funções, parâmetros e estruturas condicionais.
+
+A quarta, Herança de Veículos, implementa duas classes: Veiculo (classe base) e Carro (classe filha). A classe Carro herda os atributos de Veiculo e adiciona um novo atributo (numero_portas). Essa atividade reforça o conceito de herança e encapsulamento em Python, utilizando métodos get e set para manipular os atributos de forma segura.
